@@ -1,14 +1,7 @@
 # challenger-ONE-conversor
 # Conversor de moeda Challenge ONE Back End
 
-![Captura de tela 2023-07-10 153313](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/e3397a6c-0ce1-4c72-9f75-76a811a63670)
-![Captura de tela 2023-07-10 153342](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/3405988b-8fcc-4768-83eb-d5033251f585)
-![Captura de tela 2023-07-10 153359](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/e5f8fead-b07e-414c-8fe7-5b438bd1c8f8)
-![Captura de tela 2023-07-10 153407](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/0421882f-f45a-4804-a414-ff1a2301f75f)
-![Captura de tela 2023-07-10 153420](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/8f65b023-2e47-44ee-97ca-698843d08931)
-![Captura de tela 2023-07-10 153431](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/af364a23-3170-491e-9ff3-09363b008c66)
-![Captura de tela 2023-07-10 153437](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/47e9d544-780b-4729-b589-a4094f8281ce)
-
+![conversor-gif](https://github.com/srbernardo/challenger-ONE-conversor/assets/73710552/cf4a3b99-7e3c-488b-9b1e-59a2197dae97)
 
 Este é mais um dos challenges do curso ONE da Oracle e ele solicita a construção de um converso de moedas em Java. 
 
