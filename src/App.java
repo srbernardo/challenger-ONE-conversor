@@ -80,7 +80,7 @@ public class App {
 
             Conversor conversor = new Conversor();
 
-            moedaDestino.setValor(conversor.converter(moedaOrigem, moedaDestino.getCodigo()));
+            moedaDestino.setValor(conversor.converterMoeda(moedaOrigem, moedaDestino.getCodigo()));
             String conversaoFinal = "O valor da conversão é de " + moedaDestino.getSimbolo() + " " + moedaDestino.getValor();
             JOptionPane.showMessageDialog(null, conversaoFinal, "Message", JOptionPane.INFORMATION_MESSAGE);
 
@@ -122,7 +122,7 @@ public class App {
                 continuar = false;
             } else if (escolhaMenu.equals("Conversor de Moeda")) {
                 continuar = converterMoeda();
-            } else if (escolhaMenu.equals("Conversor de Temperatura")) {
+            } else if (escolhaMenu.equals("Conversor Sistema Americano")) {
                 converterTemperatura();
             }
         }
