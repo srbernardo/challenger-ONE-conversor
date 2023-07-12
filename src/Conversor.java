@@ -5,4 +5,8 @@ class Conversor {
 
         return Math.round(valorOrigem * cotacaoDestino * 100.0) / 100.0;
     }
+
+    public double converterMedida(double origem, double metrica) {
+        return Math.round(origem * metrica * 100.0) / 100.0;
+    }
 }
