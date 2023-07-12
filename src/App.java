@@ -107,7 +107,7 @@ public class App {
         boolean continuar = true;
 
         while (continuar) {
-            Object[] optMenu = {"Conversor de Moeda", "Conversor de Temperatura"};
+            Object[] optMenu = {"Conversor de Moeda", "Conversor Sistema Americano"};
             Object escolhaMenu = JOptionPane.showInputDialog(
                     null,
                     "Escolha uma opção",
@@ -123,7 +123,7 @@ public class App {
             } else if (escolhaMenu.equals("Conversor de Moeda")) {
                 continuar = converterMoeda();
             } else if (escolhaMenu.equals("Conversor Sistema Americano")) {
-                converterTemperatura();
+                continuar = SistemaAmericano.converterSistemaAmericano();
             }
         }
     }
