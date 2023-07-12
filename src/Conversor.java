@@ -1,5 +1,5 @@
 class Conversor {
-    public double converter(Moeda origem, String codigoDestino) {
+    public double converterMoeda(Moeda origem, String codigoDestino) {
         double valorOrigem = origem.getValor();
         double cotacaoDestino = Cotacao.getCotacao(codigoDestino);
 
